@@ -12,3 +12,10 @@ reset.sh
 --------
 
 Resets a provisioned youbikey back do defaults (PIN, PUK, No key material).
+
+PREREQS
+=======
+
+```
+pkg_add yubico-piv-tool
+```
